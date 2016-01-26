@@ -1,5 +1,9 @@
 # Changelog
 
+## HEAD
+
+- Update to Modernizr 3.
+
 ## 2.12.0
 
 - Update Foundation to 5.5.3.
